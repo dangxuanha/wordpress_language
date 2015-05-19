@@ -1,0 +1,5 @@
+<a href="http://www.twitter.com/smooththemes"><img src="http://smooththemes.com/api/themeforest/twitter.png" alt=""></a>
+<a href="http://www.facebook.com/smooththemes"><img src="http://smooththemes.com/api/themeforest/facebook.png" alt=""></a>
+<a href="http://themeforest.net/user/SmoothThemes/follow"><img src="http://smooththemes.com/api/themeforest/themeforest.png" alt=""></a>
+<a href="http://www.smooththemes.com"><img src="http://smooththemes.com/api/themeforest/subscribe.png" alt=""></a>
+<a href="http://www.smooththemes.com/forum"><img src="http://smooththemes.com/api/themeforest/support.png" alt=""></a>

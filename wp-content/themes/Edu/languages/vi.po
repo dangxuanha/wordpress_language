@@ -1,0 +1,1608 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: smooththemes\n"
+"POT-Creation-Date: 2013-12-12 08:38+0700\n"
+"PO-Revision-Date: 2013-12-12 08:42+0700\n"
+"Last-Translator: Sa Hoang Truong <shrimp2t2gmail.com>\n"
+"Language-Team: Sa\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x;_n\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../Edu/404.php:28 ../Edu/404.php:64 ../Edu/404.php:109
+#: ../Edu/includes/theme-functions.php:274
+msgid "404"
+msgstr ""
+
+#: ../Edu/404.php:33 ../Edu/404.php:69 ../Edu/404.php:114
+msgid ""
+"We're sorry, but we can't find the page you were looking for. It's probably "
+"some thing we've done wrong but now we know about it we'll try to fix it. In "
+"the meantime, try one of these options:"
+msgstr ""
+
+#: ../Edu/404.php:36 ../Edu/404.php:72 ../Edu/404.php:117
+msgid "Go back to previous page"
+msgstr ""
+
+#: ../Edu/404.php:37 ../Edu/404.php:73 ../Edu/404.php:118
+msgid "Go to homepage"
+msgstr ""
+
+#: ../Edu/comments.php:31
+msgid "Comment navigation"
+msgstr ""
+
+#: ../Edu/comments.php:32
+msgid "← Older Comments"
+msgstr ""
+
+#: ../Edu/comments.php:33
+msgid "Newer Comments →"
+msgstr ""
+
+#: ../Edu/comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#: ../Edu/comments.php:50
+msgid "Comment"
+msgstr ""
+
+#: ../Edu/comments.php:52 ../Edu/woocommerce/single-product-reviews.php:83
+msgid "Name"
+msgstr ""
+
+#: ../Edu/comments.php:53 ../Edu/woocommerce/single-product-reviews.php:85
+#: ../Edu/woocommerce/myaccount/form-login.php:78
+msgid "Email"
+msgstr ""
+
+#: ../Edu/comments.php:54
+msgid "Website"
+msgstr ""
+
+#: ../Edu/content-course.php:38 ../Edu/content-event.php:62
+#: ../Edu/content-single.php:62
+msgid "Pages:"
+msgstr ""
+
+#: ../Edu/content-course.php:43 ../Edu/content-event.php:67
+#: ../Edu/content-single.php:67
+msgid "Next page"
+msgstr ""
+
+#: ../Edu/content-course.php:44 ../Edu/content-event.php:68
+#: ../Edu/content-single.php:68
+msgid "Previous page"
+msgstr ""
+
+#: ../Edu/content-course.php:50
+msgid "Categories: "
+msgstr ""
+
+#: ../Edu/content-event.php:32 ../Edu/content-single.php:28
+#: ../Edu/loop/loop-post-gird-2.php:31 ../Edu/loop/loop-post-gird-3.php:31
+#: ../Edu/loop/loop-post-gird-4.php:31 ../Edu/loop/loop-post-gird.php:31
+#: ../Edu/loop/loop-post-list.php:32 ../Edu/loop/loop-post-list.php:75
+#: ../Edu/loop/loop-post.php:34 ../Edu/loop/loop-post.php:77
+#, php-format
+msgid "On <span class=\"txt\">%s</span>"
+msgstr ""
+
+#: ../Edu/content-event.php:42 ../Edu/content-single.php:42
+#: ../Edu/loop/loop-post-gird-2.php:35 ../Edu/loop/loop-post-gird-3.php:35
+#: ../Edu/loop/loop-post-gird-4.php:35 ../Edu/loop/loop-post-gird.php:45
+#: ../Edu/loop/loop-post-list.php:46 ../Edu/loop/loop-post-list.php:79
+#: ../Edu/loop/loop-post.php:48 ../Edu/loop/loop-post.php:81
+msgid "0 Comment"
+msgstr ""
+
+#: ../Edu/content-event.php:42 ../Edu/content-single.php:42
+#: ../Edu/loop/loop-post-gird-2.php:35 ../Edu/loop/loop-post-gird-3.php:35
+#: ../Edu/loop/loop-post-gird-4.php:35 ../Edu/loop/loop-post-gird.php:45
+#: ../Edu/loop/loop-post-list.php:46 ../Edu/loop/loop-post-list.php:79
+#: ../Edu/loop/loop-post.php:48 ../Edu/loop/loop-post.php:81
+msgid "1 Comment"
+msgstr ""
+
+#: ../Edu/content-event.php:42 ../Edu/content-single.php:42
+#: ../Edu/loop/loop-post-gird-2.php:35 ../Edu/loop/loop-post-gird-3.php:35
+#: ../Edu/loop/loop-post-gird-4.php:35 ../Edu/loop/loop-post-gird.php:45
+#: ../Edu/loop/loop-post-list.php:46 ../Edu/loop/loop-post-list.php:79
+#: ../Edu/loop/loop-post.php:48 ../Edu/loop/loop-post.php:81
+msgid "% Comments"
+msgstr ""
+
+#: ../Edu/content-event.php:74 ../Edu/content-single.php:74
+msgid "Tags: "
+msgstr ""
+
+#: ../Edu/content-single.php:37 ../Edu/loop/loop-post-gird.php:40
+#: ../Edu/loop/loop-post-list.php:41 ../Edu/loop/loop-post.php:43
+#, php-format
+msgid "In %s"
+msgstr ""
+
+#: ../Edu/footer.php:61
+msgid "Back to Top"
+msgstr ""
+
+#: ../Edu/header.php:38
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../Edu/header.php:150
+msgid "Main Navigation"
+msgstr ""
+
+#: ../Edu/search.php:32 ../Edu/search.php:63 ../Edu/search.php:103
+msgid "Not found !"
+msgstr ""
+
+#: ../Edu/config-plugins/stToolKit/custom-shortcode.php:397
+msgid "Duration:"
+msgstr ""
+
+#: ../Edu/config-plugins/stToolKit/custom-shortcode.php:398
+msgid "Play video"
+msgstr ""
+
+#: ../Edu/config-plugins/stToolKit/custom-shortcode.php:399
+msgid "Donwload prospect"
+msgstr ""
+
+#: ../Edu/config-plugins/stToolKit/custom-shortcode.php:886
+#: ../Edu/config-plugins/stToolKit/custom-shortcode.php:910
+#: ../Edu/loop/loop-course-list-menu.php:22
+#: ../Edu/loop/loop-course-list.php:44 ../Edu/loop/loop-post-gird-2.php:43
+#: ../Edu/loop/loop-post-gird-3.php:43 ../Edu/loop/loop-post-gird-4.php:43
+#: ../Edu/loop/loop-post-gird.php:53 ../Edu/loop/loop-post-list.php:88
+#: ../Edu/loop/loop-post-list.php:97 ../Edu/loop/loop-post.php:90
+#: ../Edu/loop/loop-post.php:99 ../Edu/loop/loop-search.php:56
+#: ../Edu/loop/loop-search.php:65
+msgid "Read more"
+msgstr "Xem thêm"
+
+#: ../Edu/includes/theme-functions.php:156
+#: ../Edu/woocommerce/st-wc-functions.php:154
+msgid "Home"
+msgstr ""
+
+#: ../Edu/includes/theme-functions.php:193
+#: ../Edu/woocommerce/single-product/review.php:25
+msgid "(Edit)"
+msgstr ""
+
+#: ../Edu/includes/theme-functions.php:202
+#: ../Edu/woocommerce/single-product/review.php:44
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../Edu/includes/theme-functions.php:244
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../Edu/includes/theme-functions.php:253
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../Edu/includes/theme-functions.php:255
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../Edu/includes/theme-functions.php:258
+#, php-format
+msgid "%1$s Archives: %2$s"
+msgstr ""
+
+#: ../Edu/includes/theme-functions.php:262
+msgid "Search result"
+msgstr ""
+
+#: ../Edu/includes/theme-functions.php:265
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../Edu/includes/theme-functions.php:267
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../Edu/includes/theme-functions.php:267
+msgid "F Y"
+msgstr ""
+
+#: ../Edu/includes/theme-functions.php:269
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../Edu/includes/theme-functions.php:269
+msgid "Y"
+msgstr ""
+
+#: ../Edu/includes/theme-functions.php:271
+msgid "Blog Archives"
+msgstr ""
+
+#: ../Edu/includes/theme-functions.php:382
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../Edu/includes/theme-hooks.php:78
+msgid "Search for posts"
+msgstr ""
+
+#: ../Edu/includes/theme-hooks.php:89
+msgid "Search for products"
+msgstr ""
+
+#: ../Edu/includes/theme-menu.php:15
+msgid "Primary Navigation"
+msgstr ""
+
+#: ../Edu/includes/theme-menu.php:16
+msgid "Top Navigation"
+msgstr ""
+
+#: ../Edu/includes/theme-menu.php:17
+msgid "Footer Navigation"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type-meta.php:69
+msgid "Event Settings"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type-meta.php:90
+msgid "Start Date"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type-meta.php:91
+msgid "Start Date."
+msgstr ""
+
+#: ../Edu/includes/theme-post-type-meta.php:100
+#: ../Edu/includes/theme-post-type-meta.php:180
+msgid "Caption Featured Image"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type-meta.php:101
+#: ../Edu/includes/theme-post-type-meta.php:181
+msgid "Caption Featured Image."
+msgstr ""
+
+#: ../Edu/includes/theme-post-type-meta.php:120
+msgid "Course Settings"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type-meta.php:141
+msgid "Date Start"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type-meta.php:142
+msgid "Date Start."
+msgstr ""
+
+#: ../Edu/includes/theme-post-type-meta.php:150
+msgid "Count Lessons"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type-meta.php:151
+msgid "Count Lessons."
+msgstr ""
+
+#: ../Edu/includes/theme-post-type-meta.php:160
+msgid "Level"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type-meta.php:161
+msgid "Level."
+msgstr ""
+
+#: ../Edu/includes/theme-post-type-meta.php:170
+msgid "Type"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type-meta.php:171
+msgid "Type."
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:7 ../Edu/includes/theme-post-type.php:9
+#: ../Edu/includes/theme-post-type.php:10
+msgid "Course"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:11
+msgid "All Course"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:12
+msgid "Add Course"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:13
+msgid "Add new Course"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:14
+msgid "Edit Course"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:15
+msgid "New Course"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:16
+msgid "View Course"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:17
+msgid "Search Course"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:18
+#: ../Edu/includes/theme-post-type.php:41
+msgid "Not found"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:19
+#: ../Edu/includes/theme-post-type.php:42
+msgid "Not found in trash"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:30
+#: ../Edu/includes/theme-post-type.php:32
+#: ../Edu/includes/theme-post-type.php:33
+msgid "Event"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:34
+msgid "All Event"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:35
+msgid "Add Event"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:36
+msgid "Add new Event"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:37
+msgid "Edit Event"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:38
+msgid "New Event"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:39
+msgid "View Event"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:40
+msgid "Search Event"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:62
+msgid "Course Categories"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:63
+#: ../Edu/includes/theme-post-type.php:111
+msgid "Categories"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:64
+msgid "Course Category"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:65
+msgid "All Course Categories"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:66
+#: ../Edu/includes/theme-post-type.php:67
+msgid "Edit Course Category"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:69
+msgid "New Course Category"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:71
+msgid "New Course Category Name"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:73
+msgid "Search Course Categories"
+msgstr ""
+
+#: ../Edu/includes/theme-post-type.php:75
+msgid "Popular Course Categories"
+msgstr ""
+
+#: ../Edu/includes/theme-sidebar.php:15
+msgid "Default Sidebar"
+msgstr ""
+
+#: ../Edu/includes/theme-sidebar.php:24
+msgid "Default Course Sidebar"
+msgstr ""
+
+#: ../Edu/includes/theme-sidebar.php:33
+msgid "Default Event Sidebar"
+msgstr ""
+
+#: ../Edu/includes/theme-sidebar.php:43
+msgid "Default Product Sidebar"
+msgstr ""
+
+#: ../Edu/includes/theme-sidebar.php:55
+msgid "Header Right Sidebar"
+msgstr ""
+
+#: ../Edu/includes/theme-sidebar.php:81
+#, php-format
+msgid "Footer %d"
+msgstr ""
+
+#: ../Edu/includes/theme-sidebar.php:108
+#, php-format
+msgid "Footer %d (%s)"
+msgstr ""
+
+#: ../Edu/includes/widgets/course.php:7
+msgid "ST Course"
+msgstr ""
+
+#: ../Edu/includes/widgets/course.php:8
+msgid "Display Course"
+msgstr ""
+
+#: ../Edu/includes/widgets/course.php:29
+#: ../Edu/includes/widgets/get-direction.php:51
+#: ../Edu/includes/widgets/newsletter.php:91
+#: ../Edu/includes/widgets/recent-posts.php:29
+msgid "Title:"
+msgstr ""
+
+#: ../Edu/includes/widgets/course.php:34
+#: ../Edu/includes/widgets/recent-posts.php:34
+msgid "How many posts to show ? "
+msgstr ""
+
+#: ../Edu/includes/widgets/divider.php:14
+msgid "ST Divider"
+msgstr ""
+
+#: ../Edu/includes/widgets/divider.php:15
+msgid "A widget divider"
+msgstr ""
+
+#: ../Edu/includes/widgets/get-direction.php:12
+msgid "ST Get Direction"
+msgstr ""
+
+#: ../Edu/includes/widgets/get-direction.php:13
+msgid "A widget get direction"
+msgstr ""
+
+#: ../Edu/includes/widgets/get-direction.php:28
+msgid "Enter your location"
+msgstr ""
+
+#: ../Edu/includes/widgets/get-direction.php:32
+msgid "Get directions"
+msgstr ""
+
+#: ../Edu/includes/widgets/get-direction.php:55
+msgid "Description:"
+msgstr ""
+
+#: ../Edu/includes/widgets/newsletter.php:10
+msgid "ST Newsletter"
+msgstr ""
+
+#: ../Edu/includes/widgets/newsletter.php:10
+msgid "Newsletter Widget"
+msgstr ""
+
+#: ../Edu/includes/widgets/newsletter.php:25
+#, php-format
+msgid "Keep Update With %s"
+msgstr ""
+
+#: ../Edu/includes/widgets/newsletter.php:29
+msgid "Your Email"
+msgstr ""
+
+#: ../Edu/includes/widgets/newsletter.php:47
+#: ../Edu/includes/widgets/newsletter.php:60
+msgid "Subscribe"
+msgstr ""
+
+#: ../Edu/includes/widgets/newsletter.php:54
+msgid "Your Email Address..."
+msgstr ""
+
+#: ../Edu/includes/widgets/newsletter.php:96
+msgid "Text:"
+msgstr ""
+
+#: ../Edu/includes/widgets/newsletter.php:98
+#: ../Edu/includes/widgets/newsletter.php:118
+#: ../Edu/includes/widgets/newsletter.php:123
+msgid "Example: <strong>smooththemes</strong>"
+msgstr ""
+
+#: ../Edu/includes/widgets/newsletter.php:102
+msgid "Form type:"
+msgstr ""
+
+#: ../Edu/includes/widgets/newsletter.php:105
+msgid "Feedburner"
+msgstr ""
+
+#: ../Edu/includes/widgets/newsletter.php:110
+msgid "Mailchimp"
+msgstr ""
+
+#: ../Edu/includes/widgets/newsletter.php:115
+msgid "Feedburner URLI:"
+msgstr ""
+
+#: ../Edu/includes/widgets/newsletter.php:121
+msgid "Mailchimp Action:"
+msgstr ""
+
+#: ../Edu/includes/widgets/recent-posts.php:7
+msgid "ST Recent Posts"
+msgstr ""
+
+#: ../Edu/includes/widgets/recent-posts.php:8
+msgid "Display Recent Posts"
+msgstr ""
+
+#: ../Edu/loop/loop-course-list.php:25
+#, php-format
+msgid "Start date: %s"
+msgstr ""
+
+#: ../Edu/loop/loop-course-list.php:27
+#, php-format
+msgid "ID: %s"
+msgstr ""
+
+#: ../Edu/loop/loop-course-list.php:35
+#, php-format
+msgid "%s Lessons"
+msgstr ""
+
+#: ../Edu/loop/loop-course-list.php:38
+#, php-format
+msgid "Level %s"
+msgstr ""
+
+#: ../Edu/loop/loop-event-list.php:21
+#, php-format
+msgid "<strong>%s</strong>%s"
+msgstr ""
+
+#: ../Edu/woocommerce/loop-shop.php:40
+#: ../Edu/woocommerce/loop/no-products-found.php:14
+msgid "No products found which match your selection."
+msgstr ""
+
+#: ../Edu/woocommerce/single-product-reviews.php:27
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product-reviews.php:27
+#: ../Edu/woocommerce/single-product/review.php:30
+msgid "out of 5"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product-reviews.php:29
+#, php-format
+msgid "%s review for %s"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product-reviews.php:35
+#: ../Edu/woocommerce/single-product-reviews.php:41
+msgid "Reviews"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product-reviews.php:57
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product-reviews.php:58
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product-reviews.php:62
+msgid "Add Your Review"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product-reviews.php:62
+msgid "Add Review"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product-reviews.php:64
+msgid "Add a review"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product-reviews.php:68
+msgid "Be the first to review"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product-reviews.php:70
+msgid ""
+"There are no reviews yet, would you like to <a href=\"#review_form\" class="
+"\"inline show_review_form\">submit yours</a>?"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product-reviews.php:88
+msgid "Submit Review"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product-reviews.php:95
+msgid "Rating"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product-reviews.php:96
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product-reviews.php:97
+msgid "Perfect"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product-reviews.php:98
+msgid "Good"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product-reviews.php:99
+msgid "Average"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product-reviews.php:100
+msgid "Not that bad"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product-reviews.php:101
+msgid "Very Poor"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product-reviews.php:106
+msgid "Your Review"
+msgstr ""
+
+#: ../Edu/woocommerce/st-wc-functions.php:264
+#: ../Edu/woocommerce/cart/shipping-calculator.php:28
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: ../Edu/woocommerce/st-wc-functions.php:268
+msgid "Update country"
+msgstr ""
+
+#: ../Edu/woocommerce/st-wc-functions.php:299
+#: ../Edu/woocommerce/cart/shipping-calculator.php:52
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/cart-empty.php:14
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: ../Edu/woocommerce/cart/cart-empty.php:18
+msgid "&larr; Return To Shop"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/cart.php:24
+#: ../Edu/woocommerce/checkout/form-pay.php:19
+#: ../Edu/woocommerce/checkout/review-order.php:21
+#: ../Edu/woocommerce/emails/admin-new-order.php:22
+#: ../Edu/woocommerce/emails/customer-completed-order.php:23
+#: ../Edu/woocommerce/emails/customer-invoice.php:27
+#: ../Edu/woocommerce/emails/customer-note.php:27
+#: ../Edu/woocommerce/emails/customer-processing-order.php:23
+#: ../Edu/woocommerce/order/order-details.php:20
+msgid "Product"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/cart.php:25
+#: ../Edu/woocommerce/emails/admin-new-order.php:24
+#: ../Edu/woocommerce/emails/customer-completed-order.php:25
+#: ../Edu/woocommerce/emails/customer-invoice.php:29
+#: ../Edu/woocommerce/emails/customer-note.php:29
+#: ../Edu/woocommerce/emails/customer-processing-order.php:25
+msgid "Price"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/cart.php:26
+#: ../Edu/woocommerce/emails/admin-new-order.php:23
+#: ../Edu/woocommerce/emails/customer-completed-order.php:24
+#: ../Edu/woocommerce/emails/customer-invoice.php:28
+#: ../Edu/woocommerce/emails/customer-note.php:28
+#: ../Edu/woocommerce/emails/customer-processing-order.php:24
+msgid "Quantity"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/cart.php:27
+#: ../Edu/woocommerce/checkout/review-order.php:22
+#: ../Edu/woocommerce/myaccount/my-orders.php:35
+#: ../Edu/woocommerce/order/order-details.php:21
+msgid "Total"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/cart.php:43
+msgid "Remove this item"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/cart.php:70
+msgid "Available on backorder"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/cart.php:92
+#: ../Edu/woocommerce/checkout/form-pay.php:20
+msgid "Qty"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/cart.php:116
+msgid "Coupon"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/cart.php:116
+#: ../Edu/woocommerce/checkout/form-coupon.php:29
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/cart.php:120
+msgid "Update Cart"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/cart.php:120
+msgid "Proceed to Checkout &rarr;"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/cross-sells.php:38
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/mini-cart.php:56
+msgid "No products in the cart."
+msgstr ""
+
+#: ../Edu/woocommerce/cart/mini-cart.php:65
+#, php-format
+msgid "%d item"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/mini-cart.php:66
+msgid "Subtotal"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/mini-cart.php:70
+msgid "View Cart &rarr;"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/mini-cart.php:71
+msgid "Checkout &rarr;"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/shipping-calculator.php:22
+msgid "Calculate Shipping"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/shipping-calculator.php:45
+#: ../Edu/woocommerce/cart/shipping-calculator.php:51
+#: ../Edu/woocommerce/cart/shipping-calculator.php:63
+msgid "State / county"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/shipping-calculator.php:72
+msgid "City"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/shipping-calculator.php:80
+msgid "Postcode / Zip"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/shipping-calculator.php:85
+msgid "Update Totals"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/shipping-methods.php:32
+msgid "Free"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/shipping-methods.php:68
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: ../Edu/woocommerce/cart/shipping-methods.php:76
+#: ../Edu/woocommerce/cart/totals.php:147
+#, php-format
+msgid ""
+"Sorry, it seems that there are no available shipping methods for your "
+"location (%s)."
+msgstr ""
+
+#: ../Edu/woocommerce/cart/shipping-methods.php:76
+#: ../Edu/woocommerce/cart/totals.php:147
+msgid ""
+"If you require assistance or wish to make alternate arrangements please "
+"contact us."
+msgstr ""
+
+#: ../Edu/woocommerce/cart/totals.php:22
+msgid "Cart Totals"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/totals.php:28
+#: ../Edu/woocommerce/checkout/review-order.php:27
+msgid "Cart Subtotal"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/totals.php:35
+#: ../Edu/woocommerce/checkout/review-order.php:34
+msgid "Cart Discount"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/totals.php:35 ../Edu/woocommerce/cart/totals.php:83
+msgid "[Remove]"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/totals.php:46
+#: ../Edu/woocommerce/checkout/review-order.php:45
+msgid "Shipping"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/totals.php:83
+#: ../Edu/woocommerce/checkout/review-order.php:82
+msgid "Order Discount"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/totals.php:92
+#: ../Edu/woocommerce/checkout/review-order.php:91
+msgid "Order Total"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/totals.php:105
+#: ../Edu/woocommerce/checkout/review-order.php:104
+#, php-format
+msgid "(Includes %s)"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/totals.php:121
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: ../Edu/woocommerce/cart/totals.php:123
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: ../Edu/woocommerce/cart/totals.php:135
+msgid ""
+"No shipping methods were found; please recalculate your shipping and enter "
+"your state/county and zip/postcode to ensure there are no other available "
+"methods for your location."
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/cart-errors.php:16
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/cart-errors.php:20
+msgid "&larr; Return To Cart"
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/form-billing.php:17
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/form-billing.php:21
+#: ../Edu/woocommerce/myaccount/form-edit-address.php:27
+#: ../Edu/woocommerce/myaccount/my-address.php:19
+#: ../Edu/woocommerce/myaccount/my-address.php:25
+#: ../Edu/woocommerce/order/order-details.php:115
+msgid "Billing Address"
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/form-billing.php:42
+msgid "Create an account?"
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/form-billing.php:51
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/form-coupon.php:17
+msgid "Have a coupon?"
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/form-coupon.php:20
+msgid "Click here to enter your code"
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/form-coupon.php:25
+msgid "Coupon code"
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/form-login.php:17
+msgid "Click here to login"
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/form-login.php:22
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/form-pay.php:21
+msgid "Totals"
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/form-pay.php:78
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/form-pay.php:87
+msgid "Pay for order"
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/form-shipping.php:32
+msgid "Ship to billing address?"
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/form-shipping.php:35
+#: ../Edu/woocommerce/myaccount/form-edit-address.php:27
+#: ../Edu/woocommerce/myaccount/my-address.php:20
+#: ../Edu/woocommerce/order/order-details.php:130
+msgid "Shipping Address"
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/form-shipping.php:63
+#: ../Edu/woocommerce/single-product/tabs/additional-information.php:14
+msgid "Additional Information"
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/review-order.php:174
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/review-order.php:176
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/review-order.php:185
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/review-order.php:185
+msgid "Update totals"
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/review-order.php:192
+msgid "Place order"
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/review-order.php:199
+msgid "I have read and accept the"
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/review-order.php:199
+msgid "terms &amp; conditions"
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/thankyou.php:28
+#: ../Edu/woocommerce/myaccount/my-orders.php:71
+msgid "Pay"
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/thankyou.php:36
+#: ../Edu/woocommerce/checkout/thankyou.php:67
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/thankyou.php:40
+#: ../Edu/woocommerce/emails/customer-completed-order.php:18
+#: ../Edu/woocommerce/emails/customer-invoice.php:22
+#: ../Edu/woocommerce/emails/customer-note.php:22
+#: ../Edu/woocommerce/emails/customer-processing-order.php:18
+msgid "Order:"
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr ""
+
+#: ../Edu/woocommerce/checkout/thankyou.php:53
+msgid "Payment method:"
+msgstr ""
+
+#: ../Edu/woocommerce/emails/admin-new-order.php:13
+#: ../Edu/woocommerce/emails/plain/admin-new-order.php:13
+#, php-format
+msgid "You have received an order from %s. Their order is as follows:"
+msgstr ""
+
+#: ../Edu/woocommerce/emails/admin-new-order.php:17
+#, php-format
+msgid "Order: %s"
+msgstr ""
+
+#: ../Edu/woocommerce/emails/admin-new-order.php:50
+#: ../Edu/woocommerce/emails/customer-completed-order.php:51
+#: ../Edu/woocommerce/emails/customer-note.php:55
+#: ../Edu/woocommerce/emails/customer-processing-order.php:51
+#: ../Edu/woocommerce/emails/plain/admin-new-order.php:38
+#: ../Edu/woocommerce/order/order-details.php:97
+msgid "Customer details"
+msgstr ""
+
+#: ../Edu/woocommerce/emails/admin-new-order.php:53
+#: ../Edu/woocommerce/emails/customer-completed-order.php:54
+#: ../Edu/woocommerce/emails/customer-note.php:58
+#: ../Edu/woocommerce/emails/customer-processing-order.php:54
+#: ../Edu/woocommerce/emails/plain/admin-new-order.php:41
+#: ../Edu/woocommerce/emails/plain/customer-completed-order.php:41
+#: ../Edu/woocommerce/emails/plain/customer-note.php:49
+#: ../Edu/woocommerce/emails/plain/customer-processing-order.php:41
+#: ../Edu/woocommerce/order/order-details.php:101
+msgid "Email:"
+msgstr ""
+
+#: ../Edu/woocommerce/emails/admin-new-order.php:56
+#: ../Edu/woocommerce/emails/customer-completed-order.php:57
+#: ../Edu/woocommerce/emails/customer-note.php:61
+#: ../Edu/woocommerce/emails/customer-processing-order.php:57
+#: ../Edu/woocommerce/emails/plain/admin-new-order.php:44
+#: ../Edu/woocommerce/emails/plain/customer-completed-order.php:44
+#: ../Edu/woocommerce/emails/plain/customer-note.php:52
+#: ../Edu/woocommerce/emails/plain/customer-processing-order.php:44
+msgid "Tel:"
+msgstr ""
+
+#: ../Edu/woocommerce/emails/customer-completed-order.php:14
+#: ../Edu/woocommerce/emails/plain/customer-completed-order.php:13
+#, php-format
+msgid ""
+"Hi there. Your recent order on %s has been completed. Your order details are "
+"shown below for your reference:"
+msgstr ""
+
+#: ../Edu/woocommerce/emails/customer-invoice.php:16
+#: ../Edu/woocommerce/emails/plain/customer-invoice.php:14
+#, php-format
+msgid ""
+"An order has been created for you on %s. To pay for this order please use "
+"the following link: %s"
+msgstr ""
+
+#: ../Edu/woocommerce/emails/customer-invoice.php:16
+msgid "pay"
+msgstr ""
+
+#: ../Edu/woocommerce/emails/customer-new-account.php:14
+#: ../Edu/woocommerce/emails/plain/customer-new-account.php:13
+#, php-format
+msgid ""
+"Thanks for creating an account on %s. Your username is <strong>%s</strong>."
+msgstr ""
+
+#: ../Edu/woocommerce/emails/customer-new-account.php:16
+#: ../Edu/woocommerce/emails/plain/customer-new-account.php:15
+#, php-format
+msgid "You can access your account area here: %s."
+msgstr ""
+
+#: ../Edu/woocommerce/emails/customer-note.php:14
+#: ../Edu/woocommerce/emails/plain/customer-note.php:13
+msgid "Hello, a note has just been added to your order:"
+msgstr ""
+
+#: ../Edu/woocommerce/emails/customer-note.php:18
+#: ../Edu/woocommerce/emails/plain/customer-note.php:21
+msgid "For your reference, your order details are shown below."
+msgstr ""
+
+#: ../Edu/woocommerce/emails/customer-processing-order.php:14
+#: ../Edu/woocommerce/emails/plain/customer-processing-order.php:13
+msgid ""
+"Your order has been received and is now being processed. Your order details "
+"are shown below for your reference:"
+msgstr ""
+
+#: ../Edu/woocommerce/emails/customer-reset-password.php:14
+#: ../Edu/woocommerce/emails/plain/customer-reset-password.php:13
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: ../Edu/woocommerce/emails/customer-reset-password.php:15
+#: ../Edu/woocommerce/emails/plain/customer-reset-password.php:15
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: ../Edu/woocommerce/emails/customer-reset-password.php:16
+#: ../Edu/woocommerce/emails/plain/customer-reset-password.php:16
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: ../Edu/woocommerce/emails/customer-reset-password.php:17
+#: ../Edu/woocommerce/emails/plain/customer-reset-password.php:17
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: ../Edu/woocommerce/emails/customer-reset-password.php:20
+msgid "Click here to reset your password"
+msgstr ""
+
+#: ../Edu/woocommerce/emails/email-addresses.php:18
+#: ../Edu/woocommerce/emails/plain/email-addresses.php:12
+msgid "Billing address"
+msgstr ""
+
+#: ../Edu/woocommerce/emails/email-addresses.php:28
+#: ../Edu/woocommerce/emails/plain/email-addresses.php:17
+msgid "Shipping address"
+msgstr ""
+
+#: ../Edu/woocommerce/emails/email-order-items.php:47
+#, php-format
+msgid "Download %d:"
+msgstr ""
+
+#: ../Edu/woocommerce/emails/email-order-items.php:49
+msgid "Download:"
+msgstr ""
+
+#: ../Edu/woocommerce/emails/plain/admin-new-order.php:19
+#: ../Edu/woocommerce/emails/plain/customer-completed-order.php:19
+#: ../Edu/woocommerce/emails/plain/customer-invoice.php:20
+#: ../Edu/woocommerce/emails/plain/customer-note.php:27
+#: ../Edu/woocommerce/emails/plain/customer-processing-order.php:19
+#, php-format
+msgid "Order number: %s"
+msgstr ""
+
+#: ../Edu/woocommerce/emails/plain/admin-new-order.php:20
+#: ../Edu/woocommerce/emails/plain/customer-completed-order.php:20
+#: ../Edu/woocommerce/emails/plain/customer-invoice.php:21
+#: ../Edu/woocommerce/emails/plain/customer-note.php:28
+#: ../Edu/woocommerce/emails/plain/customer-processing-order.php:20
+#, php-format
+msgid "Order date: %s"
+msgstr ""
+
+#: ../Edu/woocommerce/emails/plain/admin-new-order.php:20
+msgid "jS F Y"
+msgstr ""
+
+#: ../Edu/woocommerce/emails/plain/customer-completed-order.php:38
+#: ../Edu/woocommerce/emails/plain/customer-note.php:46
+#: ../Edu/woocommerce/emails/plain/customer-processing-order.php:38
+msgid "Your details"
+msgstr ""
+
+#: ../Edu/woocommerce/emails/plain/email-order-items.php:28
+#, php-format
+msgid "Quantity: %s"
+msgstr ""
+
+#: ../Edu/woocommerce/emails/plain/email-order-items.php:31
+#, php-format
+msgid "Cost: %s"
+msgstr ""
+
+#: ../Edu/woocommerce/loop/add-to-cart.php:17
+#: ../Edu/woocommerce/loop/add-to-cart.php:41
+#: ../Edu/woocommerce/loop/add-to-cart.php:50
+msgid "Read More"
+msgstr ""
+
+#: ../Edu/woocommerce/loop/add-to-cart.php:33
+msgid "Select options"
+msgstr ""
+
+#: ../Edu/woocommerce/loop/add-to-cart.php:37
+msgid "View options"
+msgstr ""
+
+#: ../Edu/woocommerce/loop/add-to-cart.php:46
+#: ../Edu/woocommerce/single-product/add-to-cart/grouped.php:45
+#: ../Edu/woocommerce/single-product/add-to-cart/grouped.php:77
+#: ../Edu/woocommerce/single-product/add-to-cart/simple.php:42
+#: ../Edu/woocommerce/single-product/add-to-cart/variable.php:83
+msgid "Add to cart"
+msgstr ""
+
+#: ../Edu/woocommerce/loop/orderby.php:21
+msgid "Default sorting"
+msgstr ""
+
+#: ../Edu/woocommerce/loop/orderby.php:22
+msgid "Sort by popularity"
+msgstr ""
+
+#: ../Edu/woocommerce/loop/orderby.php:23
+msgid "Sort by average rating"
+msgstr ""
+
+#: ../Edu/woocommerce/loop/orderby.php:24
+msgid "Sort by newness"
+msgstr ""
+
+#: ../Edu/woocommerce/loop/orderby.php:25
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: ../Edu/woocommerce/loop/orderby.php:26
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: ../Edu/woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr ""
+
+#: ../Edu/woocommerce/loop/result-count.php:30
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: ../Edu/woocommerce/loop/result-count.php:32
+#, php-format
+msgid "Showing %1$d–%2$d of %3$d results"
+msgstr ""
+
+#: ../Edu/woocommerce/loop/sale-flash.php:14
+#: ../Edu/woocommerce/single-product/sale-flash.php:16
+msgid "Sale!"
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/form-change-password.php:20
+#: ../Edu/woocommerce/myaccount/form-lost-password.php:31
+msgid "New password"
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/form-change-password.php:24
+#: ../Edu/woocommerce/myaccount/form-lost-password.php:35
+msgid "Re-enter new password"
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/form-change-password.php:29
+#: ../Edu/woocommerce/myaccount/form-lost-password.php:45
+msgid "Save"
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/form-edit-address.php:43
+msgid "Save Address"
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/form-login.php:26
+#: ../Edu/woocommerce/myaccount/form-login.php:40
+#: ../Edu/woocommerce/shop/form-login.php:30
+msgid "Login"
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/form-login.php:29
+#: ../Edu/woocommerce/myaccount/form-lost-password.php:24
+#: ../Edu/woocommerce/shop/form-login.php:19
+msgid "Username or email"
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/form-login.php:33
+#: ../Edu/woocommerce/myaccount/form-login.php:85
+#: ../Edu/woocommerce/shop/form-login.php:23
+msgid "Password"
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/form-login.php:50
+#: ../Edu/woocommerce/shop/form-login.php:32
+msgid "Lost Password?"
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/form-login.php:60
+#: ../Edu/woocommerce/myaccount/form-login.php:101
+msgid "Register"
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/form-login.php:66
+msgid "Username"
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/form-login.php:89
+msgid "Re-enter password"
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/form-lost-password.php:22
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/form-lost-password.php:28
+msgid "Enter a new password below."
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/form-lost-password.php:45
+msgid "Reset Password"
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/my-account.php:18
+#, php-format
+msgid ""
+"Hello, <strong>%s</strong>. From your account dashboard you can view your "
+"recent orders, manage your shipping and billing addresses and <a href=\"%s"
+"\">change your password</a>."
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/my-address.php:45
+msgid "Edit"
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/my-downloads.php:18
+msgid "Available downloads"
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/my-downloads.php:27
+#, php-format
+msgid "%s download remaining"
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/my-orders.php:33
+msgid "Date"
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/my-orders.php:34
+msgid "Status"
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/my-orders.php:62
+#, php-format
+msgid "%s for %s item"
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/my-orders.php:77
+msgid "Cancel"
+msgstr ""
+
+#: ../Edu/woocommerce/myaccount/my-orders.php:82
+msgid "View"
+msgstr ""
+
+#: ../Edu/woocommerce/order/form-tracking.php:17
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"return. This was given to you on your receipt and in the confirmation email "
+"you should have received."
+msgstr ""
+
+#: ../Edu/woocommerce/order/form-tracking.php:19
+msgid "Order ID"
+msgstr ""
+
+#: ../Edu/woocommerce/order/form-tracking.php:19
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: ../Edu/woocommerce/order/form-tracking.php:20
+msgid "Billing Email"
+msgstr ""
+
+#: ../Edu/woocommerce/order/form-tracking.php:20
+msgid "Email you used during checkout."
+msgstr ""
+
+#: ../Edu/woocommerce/order/form-tracking.php:23
+msgid "Track"
+msgstr ""
+
+#: ../Edu/woocommerce/order/order-details.php:16
+msgid "Order Details"
+msgstr ""
+
+#: ../Edu/woocommerce/order/order-details.php:64
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: ../Edu/woocommerce/order/order-details.php:90
+msgid "Order Again"
+msgstr ""
+
+#: ../Edu/woocommerce/order/order-details.php:102
+msgid "Telephone:"
+msgstr ""
+
+#: ../Edu/woocommerce/order/order-details.php:119
+#: ../Edu/woocommerce/order/order-details.php:134
+msgid "N/A"
+msgstr ""
+
+#: ../Edu/woocommerce/order/tracking.php:18
+#, php-format
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../Edu/woocommerce/order/tracking.php:18
+msgid "ago"
+msgstr ""
+
+#: ../Edu/woocommerce/order/tracking.php:20
+msgid "and was completed"
+msgstr ""
+
+#: ../Edu/woocommerce/order/tracking.php:20
+msgid " ago"
+msgstr ""
+
+#: ../Edu/woocommerce/order/tracking.php:31
+msgid "Order Updates"
+msgstr ""
+
+#: ../Edu/woocommerce/shop/breadcrumb.php:63
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: ../Edu/woocommerce/shop/breadcrumb.php:91
+#: ../Edu/woocommerce/shop/breadcrumb.php:188
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: ../Edu/woocommerce/shop/breadcrumb.php:146
+msgid "Error 404"
+msgstr ""
+
+#: ../Edu/woocommerce/shop/breadcrumb.php:192
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: ../Edu/woocommerce/shop/breadcrumb.php:197
+msgid "Author:"
+msgstr ""
+
+#: ../Edu/woocommerce/shop/breadcrumb.php:202
+msgid "Page"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product/meta.php:19
+msgid "SKU:"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product/meta.php:24
+msgid "Category:"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product/meta.php:29
+msgid "Tag:"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product/product-attributes.php:28
+msgid "Weight"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product/product-attributes.php:37
+msgid "Dimensions"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product/related.php:34
+msgid "Related Products"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product/review.php:29
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product/add-to-cart/variable.php:24
+msgid "Choose an option"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product/add-to-cart/variable.php:69
+msgid "Clear selection"
+msgstr ""
+
+#: ../Edu/woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""

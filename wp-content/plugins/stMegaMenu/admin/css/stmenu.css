@@ -1,0 +1,59 @@
+/****************menu manager****************/
+
+/* Text Nav Type */
+.field-st-megamenu,
+.field-st-title-megamenu,
+.field-st-caption-megamenu,
+.field-description,
+.field-st-wrapcolumn-megamenu,
+.field-st-division-megamenu,
+.field-st-autop-megamenu,
+.item-type-megafied, 
+.item-type-st,
+.st-mega-active.menu-item-depth-1 .item-type-default {
+    display:none;
+}
+
+.field-st-title-megamenu,
+.field-st-autop-megamenu,
+.field-st-division-megamenu,
+.field-st-megamenu {
+    font-size: 11px;
+    font-style: italic;
+    margin: 2px 0 5px 0;
+}
+
+.field-description textarea {
+    min-height: 150px;
+    max-width: 390px;
+}
+
+/* When Active Megamenu */
+.st-mega-active.menu-item-depth-0 .item-type-megafied {
+    display:inline;
+    font-size: 9px;
+    font-style: italic;
+}
+
+.menu-item-depth-0 .field-st-megamenu,
+.st-mega-active.menu-item-depth-0 .field-st-wrapcolumn-megamenu,
+
+.st-mega-active.menu-item-depth-1.st-use-title-active .field-st-caption-megamenu,
+.st-mega-active.menu-item-depth-1.st-use-title-active .field-description,
+.st-mega-active.menu-item-depth-1.st-use-title-active .field-st-autop-megamenu,
+
+.st-mega-active.menu-item-depth-1 .field-st-title-megamenu,
+.st-mega-active.menu-item-depth-1 .field-st-wrapcolumn-megamenu,
+.st-mega-active.menu-item-depth-1 .field-st-division-megamenu,
+.st-mega-active.menu-item-depth-2 .field-st-title-megamenu,
+
+.st-mega-active.menu-item-depth-2.st-use-title-active .field-st-caption-megamenu,
+.st-mega-active.menu-item-depth-2.st-use-title-active .field-description,
+.st-mega-active.menu-item-depth-2.st-use-title-active .field-st-autop-megamenu {
+    display: block;
+}
+
+.st-mega-active.menu-item-depth-1 .item-type-st {
+    display:block;
+    color: #333333;
+}
